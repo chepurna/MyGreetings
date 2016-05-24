@@ -7,6 +7,8 @@ public class greetMe {
 		
 		myGreetingsResp mg = new myGreetingsResp();
 		System.out.println(mg.greetResp("John", "Bye"));
+		
+		System.out.println("updating print text");
 
 	}
 
